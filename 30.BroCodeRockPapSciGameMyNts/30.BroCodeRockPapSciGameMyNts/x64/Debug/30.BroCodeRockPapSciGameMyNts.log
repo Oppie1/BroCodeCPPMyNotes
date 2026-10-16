@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\atind\OneDrive\Desktop\1_AdamCode\1_BroCodeRepo\C++\WithNotes\BroCodeMyNotes\30.BroCodeRockPapSciGameMyNts\30.BroCodeRockPapSciGameMyNts\main.cpp(104,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\atind\OneDrive\Desktop\1_AdamCode\1_BroCodeRepo\C++\WithNotes\BroCodeMyNotes\30.BroCodeRockPapSciGameMyNts\30.BroCodeRockPapSciGameMyNts\main.cpp(119,1): warning C4715: 'getComputerChoice': not all control paths return a value
+  30.BroCodeRockPapSciGameMyNts.vcxproj -> C:\Users\atind\OneDrive\Desktop\1_AdamCode\1_BroCodeRepo\C++\WithNotes\BroCodeMyNotes\30.BroCodeRockPapSciGameMyNts\x64\Debug\30.BroCodeRockPapSciGameMyNts.exe
