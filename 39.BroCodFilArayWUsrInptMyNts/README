@@ -1,0 +1,26 @@
+# Bubble Sort Array Example
+
+This project demonstrates how to sort an array using the bubble sort algorithm in C++.
+
+## Files
+- `main.cpp` - contains the program logic and the bubble sort function
+
+## How to run
+1. Open `37.BroCodHowToSortArayBubleMyNts.sln` in Visual Studio
+2. Build the solution
+3. Press F5 to run
+
+//For purposes of lesson use four values to demonstrate and write comments to update the ones already present.
+//Bubble sorts can contain as many values as needed.
+## Example
+The program starts with an unsorted array:
+`10, 1, 9, 4`
+
+After sorting, it prints:
+`1, 4, 9, 10`
+
+Extra:
+
+If you would like another example of a bubble sort but in the C language (very similar):
+
+https://github.com/Oppie1/1.41CZSortingArraysWNotes/blob/main/1.41CSortingArraysWNotes/1.41CSortingArrays/FileName.cpp
