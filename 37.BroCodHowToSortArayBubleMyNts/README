@@ -11,8 +11,8 @@ Teaches how to sort a list of 4 numbers. Condenced for teaching purposes a bubbl
 
 ## What you'll learn
 You will learn how to use a bubble sort to make an accending list of 4 numbers and name and save your own program. You will also learn how to take a set of 
-verbose comments and consolodate the logic with your own comments to add instructional value to the program and save the new program. Lastly, use an Ai model 
-in your chat window instructing it to revise the comments you made into its own words and saving that as a separte program as well.
+verbose comments and consolodate the logic with your own comments to add instructional value to the program, create your own README and save the new program. 
+Lastly, use an Ai model in your chat window instructing it to revise the comments you made into its own words and saving that as a separte program as well.
 
 ## Try it yourself
 Please use the following values to sort in this order -> 10, 1, 4, 9. *Should be in program already*
