@@ -1,18 +1,18 @@
 How to Sort Numbers Using a Bubble Sort C++
 
-Teaches how to sort a list of 4 numbers. Condenced for teaching purposes a bubble works for as many numbers as needed.
+Teaches how to sort a list of 4 numbers. Condensed for teaching purposes a bubble sort works for as many numbers as needed.
 
 #Only need to use the main.cpp file
 
 ## How to run
 1. Open 37.BroCodHowToSortArayBubleMyNts.sln in Visual Studio
 2. Build
-3. F5 (Opens Up Debugger)
+3. F5
 
 ## What you'll learn
-You will learn how to use a bubble sort to make an accending list of 4 numbers and name and save your own program. You will also learn how to take a set of 
-verbose comments and consolodate the logic with your own comments to add instructional value to the program, create your own README and save the new program. 
+You will learn how to use a bubble sort to make an asending list of 4 numbers and name and save your own program. You will also learn how to take a set of 
+verbose comments and consolidate the logic with your own comments to add instructional value to the program, create your own README and save the new program. 
 Lastly, use an Ai model in your chat window instructing it to revise the comments you made into its own words and saving that as a separte program as well.
 
 ## Try it yourself
-Please use the following values to sort in this order -> 10, 1, 4, 9. *Should be in program already*
+Please use the following values to sort in this order -> 10, 1, 4, 9. The bubble sort will put them in asending order *Should be in program already*
