@@ -7,16 +7,32 @@ int main() {
 
 	//sizeof() = determines the size in bytes of a:
 	//variable, data type, class, objects, etc.
+//Declare a string var called name and initialize it to bro code.
+//CODE:
+string name = "Bro code";
 
+//Declare a double var named gpa and initialize it to a gpa.
+//CODE:
+double gpa = 2.5;
 
-	string name = "Bro code";
-	double gpa = 2.5;
-	char grade = 'F';
-	bool student = true;
-	char grades[] = { 'A', 'B', 'C', 'D', 'F' };
-	char grades2[] = { 'A', 'B', 'C','D','F' };
-	string students[] = { "SpongeBob","Patrick", "Squidward"};
-	string students2[] = { "SongeBob","Patrick", "Squidward", "Sandy"};
+//Declare a char var named grade and initialize it to a letter grade.
+//CODE:
+char grade = 'F';
+
+//Declare a boolean var named students and initialize it to true
+//CODE:
+bool student = true;
+//Declare a char array named grades with no size and initialize it to 5 letter grades.
+//CODE:
+char grades[] = { 'A', 'B', 'C','D', 'F' };
+//Declare a char array named grades2 with no size and initialize it to 5 letter grades.
+//CODE:
+char grades2[] = { 'A', 'B', 'C','D','F' };
+
+//Declare two string arrays name students/students2 with no size. Initialize to 4 names (same names for each array)
+//CODE:
+string students[] = { "SpongeBob", "Patrick", "Squidward", "Sandy" };
+string students2[] = { "SpongeBob", "Patrick", "Squidward", "Sandy" };
 
 	//Using the sizeof() function we can get the size in bytes of gpa variable of double data type.
 	//CODE:
